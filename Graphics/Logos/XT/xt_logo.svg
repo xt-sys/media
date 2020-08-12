@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="90"
+   inkscape:export-xdpi="90"
+   inkscape:export-filename="/home/Belliash/xt_logo.png"
+   width="845"
+   height="845"
+   viewBox="0 0 223.5729 223.57292"
+   version="1.1"
+   id="svg2991"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="xt_logo.svg">
+  <title
+     id="title3605">XT Logo</title>
+  <defs
+     id="defs2985">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3962-3-7-3"
+       id="linearGradient4192"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.451435,0,0,1.7771948,1382.2671,1504.072)"
+       x1="-980"
+       y1="-907.63782"
+       x2="-860"
+       y2="-907.63782" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3962-3-7-3">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3964-3-3-3" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0"
+         offset="1"
+         id="stop3966-1-7-6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3962-3-7-3"
+       id="linearGradient4194"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.451435,0,0,1.7771948,1382.2671,1504.072)"
+       x1="-920"
+       y1="-887.63782"
+       x2="-960"
+       y2="-907.63782" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-907.62789"
+     inkscape:cy="230.28272"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="px"
+     width="840px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1347"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2988">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>XT Logo</dc:title>
+        <dc:date>12/08/2020</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Rafal Kupiec</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       transform="matrix(0.26458333,0,0,0.26458333,19.27094,139.29973)"
+       id="g1339"
+       style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:none;stroke-width:28.6072;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect1066"
+         width="108.98438"
+         height="103.81647"
+         x="639.35205"
+         y="-16.421265" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4151"
+         d="M -69.1679,-2.345522 -11.1105,-215.6089 H 772.6644 L 685.5783,-2.345522 Z"
+         style="fill:#7f2aff;stroke:none;stroke-width:1.60608" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4151-3"
+         d="M -69.1679,-2.345522 -11.1105,-215.6089 H 772.6644 L 685.5783,-2.345522 Z"
+         style="fill:url(#linearGradient4192);stroke:none;stroke-width:1.60608" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4153"
+         d="M -69.1679,-2.345522 46.9469,-73.433314 105.0043,-286.69665 -11.1105,-215.6089 Z"
+         style="fill:#7f2aff;stroke:none;stroke-width:1.60608" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4153-8"
+         d="M -69.1679,-2.345522 46.9469,-73.433314 105.0043,-286.69665 -11.1105,-215.6089 Z"
+         style="fill:url(#linearGradient4194);stroke:none;stroke-width:1.60608" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4155"
+         d="m 46.9469,-73.433314 -29.0287,-35.543896 58.0574,-213.26334 29.0287,35.5439 z"
+         style="fill:#7f2aff;stroke:none;stroke-width:1.60608" />
+      <path
+         id="path1064"
+         style="fill:none;stroke:#ffffff;stroke-width:13.4276;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 208.96397,-175.17349 c -4.0283,0 -6.47291,2.92645 -4.0283,5.37106 l 60.42446,60.42447 c -41.62573,21.484247 -83.25148,44.311272 -126.21999,67.138285 -4.0283,2.685533 -2.68553,6.713829 1.34277,6.713829 h 89.96532 c 24.16978,-13.427657 46.99679,-26.855316 69.82381,-40.282968 13.42766,13.427652 28.31872,26.852692 41.74638,40.28035 h 69.57731 c 6.06387,1.4e-5 -1.14828,-6.758959 -1.59979,-7.094114 -20.01399,-20.013937 -40.03612,-40.027615 -61.38433,-60.041542 17.40393,-9.37136 34.80511,-20.07503 50.87824,-29.45433 l 95.4911,0.002 c -14.77042,29.54086 -29.09239,58.9873 -43.86281,89.870908 -1.34276,4.028298 -1.34275,6.713574 4.02829,6.713829 l 52.21577,0.0027 c 4.0283,1.87e-4 7.29641,-2.001285 8.61258,-4.455781 13.42766,-29.540869 29.15533,-61.289916 43.92576,-92.173546 l 7.12819,-0.002 54.31122,-0.002 c 4.0283,-0.002 6.72168,-2.7275 8.06444,-5.41304 6.71383,-12.08488 17.45133,-30.14253 20.14149,-34.9119 1.12523,-2.31721 -1.34277,-2.68554 -5.37105,-2.68554 H 534.21751 v 0.002 h -54.01485 v -0.002 h -68.07979 -24.57106 c -24.16976,13.42766 -48.33956,26.85532 -73.85211,38.94022 -13.42766,-12.0849 -26.85532,-25.51256 -40.28298,-38.94022 z" />
+    </g>
+  </g>
+</svg>
